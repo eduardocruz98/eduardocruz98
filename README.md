@@ -8,18 +8,18 @@
 
 🌐 Frontend Development with JavaScript and Angular
 
-📡 Passionate about Software Development, Cloud Computing, IoT and Telecommunications.
+📡 Interested in Software Development, Cloud Computing, IoT and Telecommunications.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Graduate in Telematics Engineering.
-* 💻 Interested on Backend Development with Java and Spring Boot.
-* ☁️ Interested building cloud solutions with AWS.
-* 🌐 Frontend development using Angular, JavaScript, HTML and CSS.
-* 📱 Interested in Kotlin Multiplatform and modern mobile development.
-* 📡 Experience working with IoT devices, sensors and LPWAN technologies such as Sigfox.
+* 🎓 Graduate in Telematics Engineering from the National Polytechnic Institute (IPN).
+* 💻 Focused on backend development using Java and Spring Boot.
+* ☁️ Building cloud solutions with AWS services.
+* 🌐 Experience developing web applications with Angular, JavaScript, HTML and CSS.
+* 📱 Exploring mobile and cross-platform development with Kotlin Multiplatform.
+* 📡 Experience working with IoT devices, environmental sensors and LPWAN technologies such as Sigfox.
 
 ---
 
@@ -39,7 +39,7 @@
 * HTML5
 * CSS3
 
-### Cloud
+### Cloud & Databases
 
 * AWS Lambda
 * API Gateway
@@ -47,7 +47,7 @@
 * Amazon S3
 * CloudWatch
 
-### Mobile
+### Mobile Development
 
 * Kotlin
 * Kotlin Multiplatform
@@ -59,20 +59,6 @@
 * Sigfox
 * LPWAN Networks
 * Sensor Integration
-
----
-
-## 📊 Skills
-
-```text
-Java               ██████░░░░
-Spring Boot        ████░░░░░░
-AWS                ███░░░░░░░
-Angular            ███░░░░░░░
-JavaScript         ███░░░░░░░
-Kotlin             ██░░░░░░░░
-HTML/CSS           ████░░░░░░
-```
 
 ---
 
@@ -91,30 +77,23 @@ Development of a water quality monitoring system using temperature, pH and turbi
 * API Gateway
 * Kotlin Multiplatform
 
----
-
 ### AWS Serverless API
 
-Serverless backend implementation using:
-
-* AWS Lambda
-* API Gateway
-* DynamoDB
-
----
+Serverless backend implementation using AWS Lambda, API Gateway and DynamoDB for data processing and storage.
 
 ### Kotlin Multiplatform Dashboard
 
-Cross-platform application for visualization and monitoring of sensor data.
+Cross-platform application for monitoring and visualization of environmental sensor data.
 
 ---
 
 ## 🏆 Recognition
 
-Featured in the Gaceta Politécnica of the National Polytechnic Institute (IPN) for the development of a water quality monitoring system using IoT technologies, Sigfox and AWS cloud services.
+Featured in the Gaceta Politécnica of the National Polytechnic Institute (IPN) for the development of a water quality monitoring system based on IoT technologies, Sigfox connectivity and AWS cloud services.
 
 📄 Article:
-[(https://www.ipn.mx/imageninstitucional/comunicados/ver-comunicado.html?y=2025&n=52&t=0)]
+
+https://www.ipn.mx/imageninstitucional/comunicados/ver-comunicado.html?y=2025&n=52&t=0
 
 ---
 
@@ -122,13 +101,15 @@ Featured in the Gaceta Politécnica of the National Polytechnic Institute (IPN) 
 
 * Advanced Spring Boot
 * AWS Cloud Architecture
+
 ---
 
 ## 📫 Contact
 
 📧 [eduardorcf07@gmail.com](mailto:eduardorcf07@gmail.com)
 
-💼 LinkedIn:
+💼 LinkedIn
+
 [www.linkedin.com/in/eduardo-cruz-22b50036b](http://www.linkedin.com/in/eduardo-cruz-22b50036b)
 
 📍 Mexico City, Mexico
